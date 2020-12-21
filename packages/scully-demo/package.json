@@ -1,0 +1,8 @@
+{
+  "name": "scully-demo",
+  "version": "0.0.0",
+  "scripts": {
+    "build": "ng build --prod && scully"
+  },
+  "private": true
+}
